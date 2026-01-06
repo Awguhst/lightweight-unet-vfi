@@ -1,0 +1,6 @@
+gradio
+torch
+torchvision  # Often needed with torch
+opencv-python
+numpy
+pillow
