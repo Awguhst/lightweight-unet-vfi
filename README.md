@@ -19,7 +19,7 @@ This is a simple U-Net model trained on the Vimeo-90K dataset. It takes two cons
 Below is a side-by-side comparison demonstrating the effect of the frame interpolation model.  
 The interpolated video generates a smooth intermediate frame between consecutive frames, resulting in noticeably smoother motion.
 
-| Original Video (No Interpolation) | Frame Interpolated Video |
+| Original Video | Frame Interpolated Video |
 |----------------------------------|--------------------------|
 | ![Original Video](assets/original.gif) | ![Frame Interpolated Video](assets/interpolated.gif) |
 
